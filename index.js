@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/commander pour commander !", "/acheter pour acheter dans le stock", "/commander pour commander !", "/acheter pour acheter dans le stock"];
+const statusMessages = ["/commander pour commander !","/acheter pour acheter dans le stock","/commander pour commander !","/acheter pour acheter dans le stock"];
 
 
 let currentIndex = 0;
